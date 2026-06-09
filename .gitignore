@@ -1,0 +1,16 @@
+*.pth
+*.pt
+*.log
+
+results/
+dataset/
+data/
+keys/
+reconstructed_images/
+pretrain/*.pth
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.DS_Store
